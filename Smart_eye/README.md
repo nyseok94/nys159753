@@ -6,7 +6,7 @@
 
 ## Purpose
 
-![15_Smart_Eye_Purpose](../(2018-10-19)_Pylepton_Overlay/01_figs/15_Smart_Eye_Purpose.png)
+![15_Smart_Eye_Purpose](01_figs/15_Smart_Eye_Purpose.png)
 
 
 
@@ -18,11 +18,11 @@ I use PIXY Vision Sensor(CMUcam6) with Pan/Tilt Mechanism kit
 
 How to make is.. [http://www.cmucam.org/projects/cmucam5/wiki/Building_The_PanTilt_1](http://www.cmucam.org/projects/cmucam5/wiki/Building_The_PanTilt_1)
 
-![16_Pixy_sensor](../(2018-10-19)_Pylepton_Overlay/01_figs/16_Pixy_sensor.png)
+![16_Pixy_sensor](01_figs/16_Pixy_sensor.png)
 
 Then connet to Raspberry Pi
 
-![17_pixy_connect_pi](../(2018-10-19)_Pylepton_Overlay/01_figs/17_pixy_connect_pi.png)
+![17_pixy_connect_pi](01_figs/17_pixy_connect_pi.png)
 
 When the connection is complete, several steps are required.
 
