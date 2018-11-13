@@ -10,36 +10,36 @@ Kyung-Pook National Univ.  Department of Electronic Engineering
 
 #### Tiny_Compiler
 
-Assembler
+  Assembler
 
-Tiny_compiler
+  Tiny_compiler
 
-Decorder
+  Decorder
 
 #### Embedded Vision Sensor Fusion
 
-OpenCV
+  OpenCV
 
-Face Detection
+  Face Detection
 
-PiCamera
+  PiCamera
 
-Pylepton Overlay - Thermal Image Sensor
+  Pylepton Overlay - Thermal Image Sensor
 
-PIR
+  PIR
 
-Ultrasonic wave Sensor
+  Ultrasonic wave Sensor
 
 #### Smart Eye
 
-Pixymon
+  Pixymon
 
 #### Raspberrypi setup
 
 #### Raspberrypi GPIO
 
-LED
+  LED
 
-Ultrasonic Wave Sensor
+  Ultrasonic Wave Sensor
 
-SPI, I2C
+  SPI, I2C
