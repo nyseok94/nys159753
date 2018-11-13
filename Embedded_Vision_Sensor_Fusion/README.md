@@ -350,7 +350,7 @@ And then, execute facedetect.py in over folder
 
 
 
-## 3. Pylepron Overlay - Thermal Image Sensor
+## 3. Pylepton Overlay - Thermal Image Sensor
 
 #### Using Pi Camera
 

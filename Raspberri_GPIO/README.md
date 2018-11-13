@@ -191,5 +191,7 @@ result
 
 ![07_SPI](01_figs/07_SPI.png)
 
+### I2C
 
+![14_I2C](01_figs/14_I2C.png)
 
